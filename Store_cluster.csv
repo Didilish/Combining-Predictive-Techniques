@@ -1,0 +1,86 @@
+Store,Total_sales,Cluster,Address,City,State,Zip,Type
+S0001,23508945.82,1,1000 W El Norte Pkwy,Escondido,CA,92027,Existing
+S0002,17334619.57,1,12419 Woodside Ave,Lakeside,CA,92040,Existing
+S0003,30240661.99,2,1342 N Alvarado St,Los Angeles,CA,90026,Existing
+S0004,27913890.97,1,671 S Rancho Santa Fe Rd,San Marcos,CA,92078,Existing
+S0005,27825886.17,2,1430 S Fairfax Ave,Los Angeles,CA,90019,Existing
+S0006,34625420.87,1,9643 Mission Gorge Rd,Santee,CA,92071,Existing
+S0007,30863087.31,1,820 Arneill Rd,Camarillo,CA,93010,Existing
+S0008,29181879.77,2,3461 W 3rd St,Los Angeles,CA,90020,Existing
+S0009,40678620.31,3,4033 W Avenue L,Lancaster,CA,93536,Existing
+S0010,21703928.12,2,1040 Coast Village Rd,Montecito,CA,93108,Existing
+S0011,22395673.62,1,3251 De Forest Cir Ste A,Mira Loma,CA,91752,Existing
+S0012,49186541.13,3,1124 W Ocean Ave,Lompoc,CA,93436,Existing
+S0013,39169150.41,3,3520 Riverside Plaza Dr,Riverside,CA,92506,Existing
+S0014,30987962.62,3,3901 Portola Pkwy,Irvine,CA,92620,Existing
+S0015,37353757.66,3,10675 Scripps Poway Pkwy,San Diego,CA,92131,Existing
+S0016,23352796.79,1,1201 Avocado Ave,El Cajon,CA,92020,Existing
+S0017,31540952.65,2,30252 Crown Valley Pkwy,Laguna Niguel,CA,92677,Existing
+S0018,24278729.39,1,10001 Paramount Blvd,Downey,CA,90240,Existing
+S0019,19682144.37,3,17390 Main St,Hesperia,CA,92345,Existing
+S0020,23970811.4,2,850 Linden Ave,Carpinteria,CA,93013,Existing
+S0021,21742449.28,2,1311 Wilshire Blvd,Santa Monica,CA,90403,Existing
+S0022,28489431.71,1,13438 Poway Rd,Poway,CA,92064,Existing
+S0023,17688112.54,2,5922 Edinger Ave,Huntington Beach,CA,92649,Existing
+S0024,24523501.43,3,15740 La Forge St,Whittier,CA,90603,Existing
+S0025,31318921.91,1,2684 N Tustin St,Orange,CA,92865,Existing
+S0026,21220147.15,2,2039 Verdugo Blvd,Montrose,CA,91020,Existing
+S0027,26550184.65,2,29211 Heathercliff Rd,Malibu,CA,90265,Existing
+S0028,17311101.58,1,24160 Lyons Ave,Newhall,CA,91321,Existing
+S0029,33606658.38,3,2058 W Avenue J,Lancaster,CA,93534,Existing
+S0030,25497338,1,3125 W Florida Ave,Hemet,CA,92545,Existing
+S0031,29269437.14,3,31564 Grape St,Lake Elsinore,CA,92532,Existing
+S0032,24165557.27,3,16550 Soledad Canyon Rd,Santa Clarita,CA,91351,Existing
+S0033,32960487.75,2,11322 Los Alamitos Blvd,Los Alamitos,CA,90720,Existing
+S0034,31050056.12,2,1125 Maricopa Hwy,Ojai,CA,93023,Existing
+S0035,18365221.17,1,81 W Foothill Blvd,Upland,CA,91786,Existing
+S0036,17827104.45,3,33644 Yucaipa Blvd,Yucaipa,CA,92399,Existing
+S0037,31286950.57,3,4627 Carmel Mountain Rd,San Diego,CA,92130,Existing
+S0038,20632448.59,2,5805 E Los Angeles Ave,Simi Valley,CA,93063,Existing
+S0039,21361323.01,1,1221 S Gaffey St,San Pedro,CA,90731,Existing
+S0040,37025722.69,3,4550 Atlantic Ave,Long Beach,CA,90807,Existing
+S0041,25267518.33,1,12801 Excelsior Dr,Santa Fe Springs,CA,90670,Existing
+S0042,40361802.94,1,13439 Camino Canada,El Cajon,CA,92021,Existing
+S0043,27158493.58,2,2048 E Avenida De Los Arboles,Thousand Oaks,CA,91360,Existing
+S0044,35532265.7,1,7789 Foothill Blvd,Tujunga,CA,91042,Existing
+S0045,42304090.96,3,6351 Haven Ave,Rancho Cucamonga,CA,91737,Existing
+S0046,42308785.73,2,1820 Ximeno Ave,Long Beach,CA,90815,Existing
+S0047,45096641.3,3,4200 Chino Hills Pkwy Ste 400,Chino Hills,CA,91709,Existing
+S0048,34784203.58,3,845 College Blvd,Oceanside,CA,92057,Existing
+S0049,22498605.89,2,550 E 1st St,Tustin,CA,92780,Existing
+S0050,43939211.84,2,7 Peninsula Ctr,Rolling Hills Estates,CA,90274,Existing
+S0051,32361272.14,2,26022 Marguerite Pkwy,Mission Viejo,CA,92692,Existing
+S0052,46987873.31,2,635 Foothill Blvd,La Canada,CA,91011,Existing
+S0053,30897555.99,1,750 N Imperial Ave,El Centro,CA,92243,Existing
+S0054,38270311.41,2,2938 Tapo Canyon Rd,Simi Valley,CA,93063,Existing
+S0055,39002676,3,330 W El Norte Pkwy,Escondido,CA,92026,Existing
+S0056,21812315.49,2,32401 Camino Capistrano,San Juan Capistrano,CA,92675,Existing
+S0057,33446355.83,1,500 E Manchester Blvd,Inglewood,CA,90301,Existing
+S0058,28866475.12,1,1855 Cochran St,Simi Valley,CA,93065,Existing
+S0059,28986872.68,3,950 N 2nd St,El Cajon,CA,92021,Existing
+S0060,34886833.64,2,351 W Felicita Ave,Escondido,CA,92025,Existing
+S0061,42022570.72,1,57590 29 Palms Hys,Yucca Valley,CA,92284,Existing
+S0062,26064799.99,3,11800 De Palma Rd,Corona,CA,92883,Existing
+S0063,20844141.93,2,4520 W Sunset Blvd,Los Angeles,CA,90028,Existing
+S0064,22854243.72,2,9119 Reseda Blvd,Northridge,CA,91324,Existing
+S0065,34670181.19,2,2340 Foothill Blvd,La Verne,CA,91750,Existing
+S0066,35306667.57,3,522 Orange St,Redlands,CA,92374,Existing
+S0067,28697527.75,1,660 E Los Angeles Ave,Simi Valley,CA,93065,Existing
+S0068,38824343.52,2,1011 N San Fernando Blvd,Burbank,CA,91504,Existing
+S0069,24609296.52,2,1440 W 25th St,San Pedro,CA,90732,Existing
+S0070,35369811.65,3,4550 Atlantic Ave,Long Beach,CA,90807,Existing
+S0071,30947739.96,3,1270 E Main St,Barstow,CA,92311,Existing
+S0072,38059818.31,3,729 N H St,Lompoc,CA,93436,Existing
+S0073,35879715.24,2,175 N Fairview Ave,Goleta,CA,93117,Existing
+S0074,20508215.14,1,777 S Glendora Ave,West Covina,CA,91790,Existing
+S0075,31159295.68,1,870 3rd Ave,Chula Vista,CA,91911,Existing
+S0076,22609121.51,2,7311 N Figueroa St,Los Angeles,CA,90041,Existing
+S0077,26951114.68,2,163 S Turnpike Rd,Goleta,CA,93111,Existing
+S0078,18405544.69,2,3855 State St,Santa Barabra,CA,93105,Existing
+S0079,23735310.88,3,3027 Rancho Vista Blvd,Palmdale,CA,93551,Existing
+S0080,12618744.15,3,29530 Rancho California Rd,Temecula,CA,92591,Existing
+S0081,14701931.83,2,24325 Crenshaw Blvd,Torrance,CA,90503,Existing
+S0082,34926733.05,1,42170 Big Bear Blvd,Big Bear Lake,CA,92315,Existing
+S0083,19002814.15,2,130 W Foothill Blvd,Monrovia,CA,91016,Existing
+S0084,21553681.04,2,5500 Woodruff Ave,Lakewood,CA,90713,Existing
+S0085,21552703.64,2,561 N Glendale Ave,Glendale,CA,91206,Existing

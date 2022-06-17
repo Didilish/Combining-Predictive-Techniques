@@ -19,7 +19,8 @@ Note: In a real world scenario, you could use PCA to reduce the number of predic
 Task 3: Forecasting Produce Sales
 You’ve been asked to prepare a monthly forecast for produce sales for the full year of 2016 for both existing and new stores. To do so, follow the steps below.
 
-Data
+Data Used 
+
 StoreSalesData.csv - This file contains sales by product category for all existing stores for 2012, 2013, and 2014.
 StoreInformation.csv - This file contains location data for each of the stores.
 StoreDemographicData.csv - This file contains demographic data for the areas surrounding each of the existing stores and locations for new stores.
